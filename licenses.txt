@@ -1,0 +1,7 @@
+MIT:
+= https://spdx.org/licenses/MIT
+- This
+- git https://github.com/Hejsil/zig-bench
+
+Unspecified:
+- git https://github.com/mitchellh/libxev

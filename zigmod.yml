@@ -1,0 +1,9 @@
+id: x7g8qpk2bzq1dkcfb1is932pexx8hcnlu8gqq2q3pz0ty2ue
+name: lobo
+main: src/main.zig
+license: MIT
+description: Good old crunch of redis without bitter aftertaste
+min_zig_version: 0.11.0
+root_dependencies:
+  - src: git https://github.com/mitchellh/libxev
+  - src: git https://github.com/Hejsil/zig-bench
